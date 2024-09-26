@@ -6,7 +6,7 @@ nor is everything implemented in the same way,
 but it also contains other data structures, algorithms and problems.
 
 [Book website](https://runestone.academy/runestone/books/published/pythonds/index.html)
-
+ 
 [Videos](https://teklern.blogspot.com/p/blog-page.html)
 
 ### [Algorithm analysis](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/tree/master/analysis)
