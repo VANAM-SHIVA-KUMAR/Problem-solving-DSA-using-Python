@@ -1,4 +1,4 @@
-# Problem-Solving-with-Algorithms-and-Data-Structures-using-Python
+# Problem-solving-DSA-using-Python
 
 I started the project by learning data structures and algorithms from a book *Problem Solving with Algorithms and Data Structures using Python*.
 It does not contain everything from the book, 
