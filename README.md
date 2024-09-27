@@ -58,7 +58,7 @@ but it also contains other data structures, algorithms and problems.
 - [Reverse linked list - iterative solution stack](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/blob/master/recursion/reverse-linked-list-iterative-stack.py)
 - [Reverse list](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/blob/master/recursion/reverse-list.py)
 - [Reverse string](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/blob/master/recursion/reverse-string.py)
-- [Sum numbers - binary recursion](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/blob/master/recursion/sum-numbers-binary-recursion.py)
+- [Sum numbers - binary recursion](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/master/recursion/sum-numbers-binary-recursion.py)
 - [Sum numbers - recursion with pointer](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/blob/master/recursion/sum-numbers-pointer.py)
 - [Sum numbers - recursion with slicing](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/blob/master/recursion/sum-numbers-slicing.py)
 - [Towers of Hanoi](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/blob/master/recursion/towers-of-hanoi.py)
