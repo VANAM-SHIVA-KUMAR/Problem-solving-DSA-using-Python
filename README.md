@@ -43,7 +43,7 @@ but it also contains other data structures, algorithms and problems.
 - [Circular doubly linked list](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/tree/master/linked-lists/circular-doubly-linked-list)
 
 ### [Recursion](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/tree/master/recursion)
-- [Convert number - recursive solution](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/blob/master/recursion/convert-number.py)
+- [Convert number - recursive solution](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/master/recursion/convert-number.py)
 - [Convert number - iterative solution](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/blob/master/recursion/convert-number-iterative.py)
 - [Factorial](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/blob/master/recursion/factorial.py)
 - [Fibonacci - iterative solution](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/blob/master/recursion/fibonacci-iterative.py)
