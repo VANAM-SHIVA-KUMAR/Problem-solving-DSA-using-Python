@@ -121,7 +121,7 @@ but it also contains other data structures, algorithms and problems.
     - [Union find path compression](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/tree/master/graphs/union-find/union-find-path-compression)
 - [Kosaraju's algorithm](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/tree/master/graphs/kosarajus-algorithm)
 ### [Trie](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/tree/master/trie)
-- [Trie](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/tree/master/trie)
+- [Trie](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/tree/master/trie)
 
 
 ### [Substring search](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/tree/master/substring-search)
