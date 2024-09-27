@@ -9,7 +9,7 @@ but it also contains other data structures, algorithms and problems.
  
 [Videos](https://teklern.blogspot.com/p/blog-page.html)
 
-### [Algorithm analysis](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/tree/master/analysis)
+### [Algorithm analysis](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/tree/master/analysis)
 - [Anagrams - quadratic solution](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/master/analysis/anagrams-quadratic-solution.py)
 - [Anagrams - log linear solution](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/master/analysis/anagrams-loglinear-solution.py)
 - [Anagrams - linear solution](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/master/analysis/anagrams-linear-solution.py)
@@ -19,7 +19,7 @@ but it also contains other data structures, algorithms and problems.
 ### [Stack](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/tree/master/stack)
 - [Stack - array implementation](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/master/stack/stack-array-impl.py)
 - [Stack - less efficient array implementation](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/master/stack/stack-array-impl-less-efficient.py)
-- [Stack - fixed size array implementation](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/blob/master/stack/stack-fixed-size-array-impl.py)
+- [Stack - fixed size array implementation](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/master/stack/stack-fixed-size-array-impl.py)
 - [Stack - linked list implementation](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/blob/master/stack/stack-linked-list-impl.py)
     - [Examples](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/tree/master/stack/examples)
         - [Balanced brackets](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/blob/master/stack/examples/balanced-brackets.py)
