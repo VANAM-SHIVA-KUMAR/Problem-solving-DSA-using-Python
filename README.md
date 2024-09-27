@@ -125,4 +125,4 @@ but it also contains other data structures, algorithms and problems.
 
 
 ### [Substring search](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/tree/master/substring-search)
-- [Brute force algorithm](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/blob/master/substring-search/brute_force.py)
+- [Brute force algorithm](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/master/substring-search/brute_force.py)
