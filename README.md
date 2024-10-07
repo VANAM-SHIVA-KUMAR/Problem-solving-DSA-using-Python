@@ -121,7 +121,7 @@ but it also contains other data structures, algorithms and problems.
 - [Binary search recursive](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/searching/binary-search-recursive.py)
 - [Binary search recursive pointers](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/searching/binary-search-recursive-pointers.py)
 
-<<<<<<< HEAD
+
 ### [Hash table](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/tree/main/hash-table)
 - [Linear probing](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/hash-table/linear-probing.py)
 - [Chaining](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/hash-table/chaining.py)
