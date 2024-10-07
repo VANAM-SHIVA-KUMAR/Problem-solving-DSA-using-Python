@@ -36,7 +36,7 @@ but it also contains other data structures, algorithms and problems.
 ### [Deque](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/tree/main/deque)
 - [Deque - array implementation](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/deque/deque.py)
 - [Circular deque - fixed size array implementation](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/deque/circular-deque.py)
-=======
+
 ### [Algorithm analysis](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/tree/master/analysis)
 - [Anagrams - quadratic solution](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/master/analysis/anagrams-quadratic-solution.py)
 - [Anagrams - log linear solution](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/master/analysis/anagrams-loglinear-solution.py)
