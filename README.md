@@ -3,7 +3,7 @@
 I started the project by learning data structures and algorithms from a book *Problem Solving with Algorithms and Data Structures using Python*.
 It does not contain everything from the book, 
 nor is everything implemented in the same way,
-but it also contains other data structures, algorithms and problems.
+but it also contains other data structures, algorithms, and problems.
 
 
 [Learn Python](https://drive.google.com/file/d/13uhqnOa_9vO5kNM3svl4gOgSdYrLfrPK/view?usp=drive_link)
