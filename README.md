@@ -5,10 +5,9 @@ It does not contain everything from the book,
 nor is everything implemented in the same way,
 but it also contains other data structures, algorithms and problems.
 
-[Book website](https://runestone.academy/runestone/books/published/pythonds/index.html)
+[Learn Python](https://drive.google.com/file/d/13uhqnOa_9vO5kNM3svl4gOgSdYrLfrPK/view?usp=drive_link)
  
-[Videos](https://teklern.blogspot.com/p/blog-page.html)
-
+[DSA Blog](https://medium.com/@shivakumarvanam27/100-days-of-cracking-your-next-technical-interview-an-adventure-in-coding-land-c3f509c802ae)
 
 ### [Algorithm analysis](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/tree/main/analysis)
 - [Anagrams - quadratic solution](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/analysis/anagrams-quadratic-solution.py)
@@ -130,7 +129,7 @@ but it also contains other data structures, algorithms and problems.
 ### [Hash table](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/tree/master/hash-table)
 - [Linear probing](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/master/hash-table/linear-probing.py)
 - [Chaining](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/blob/master/hash-table/chaining.py)
->>>>>>> 
+
 
 ### [Trees](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/tree/main/trees)
 - [List of lists representation](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/trees/list-representation.py)
