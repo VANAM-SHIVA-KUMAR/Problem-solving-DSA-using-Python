@@ -63,7 +63,7 @@ but it also contains other data structures, algorithms and problems.
 ### [Deque](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/tree/master/deque)
 - [Deque - array implementation](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/master/deque/deque.py)
 - [Circular deque - fixed size array implementation](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/blob/master/deque/circular-deque.py)
->>>>>>> 2d845800b14703196e0155ab255e9b7a704881cb
+
 
 ### [Linked lists](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/tree/main/linked-lists)
 - [Singly linked list](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/tree/main/linked-lists/singly-linked-list)
@@ -92,7 +92,7 @@ but it also contains other data structures, algorithms and problems.
 - [Sum numbers - recursion with pointer](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/recursion/sum-numbers-pointer.py)
 - [Sum numbers - recursion with slicing](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/recursion/sum-numbers-slicing.py)
 - [Towers of Hanoi](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/recursion/towers-of-hanoi.py)
-=======
+
 ### [Recursion](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/tree/master/recursion)
 - [Convert number - recursive solution](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/master/recursion/convert-number.py)
 - [Convert number - iterative solution](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/blob/master/recursion/convert-number-iterative.py)
@@ -113,7 +113,7 @@ but it also contains other data structures, algorithms and problems.
 - [Sum numbers - recursion with pointer](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/blob/master/recursion/sum-numbers-pointer.py)
 - [Sum numbers - recursion with slicing](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/blob/master/recursion/sum-numbers-slicing.py)
 - [Towers of Hanoi](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/blob/master/recursion/towers-of-hanoi.py)
->>>>>>> 2d845800b14703196e0155ab255e9b7a704881cb
+
 
 ### [Searching](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/tree/main/searching)
 - [Sequential search - unordered list](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/searching/sequential-search-unordered-list.py)
@@ -126,22 +126,22 @@ but it also contains other data structures, algorithms and problems.
 ### [Hash table](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/tree/main/hash-table)
 - [Linear probing](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/hash-table/linear-probing.py)
 - [Chaining](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/hash-table/chaining.py)
-=======
+
 ### [Hash table](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/tree/master/hash-table)
 - [Linear probing](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/master/hash-table/linear-probing.py)
 - [Chaining](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/blob/master/hash-table/chaining.py)
->>>>>>> 2d845800b14703196e0155ab255e9b7a704881cb
+>>>>>>> 
 
 ### [Trees](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/tree/main/trees)
 - [List of lists representation](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/trees/list-representation.py)
 - [Class representation](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/trees/class-representation.py)
 - [Parse tree](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/trees/parse-tree.py)
 - [Tree traversal](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/tree/main/trees/tree-traversal)
-    - [Methods](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/trees/tree-traversal/treenode.py)
-    - [Functions](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/trees/tree-traversal/functions.py)
-    - [Preorder traversal example](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/trees/tree-traversal/preorder-traversal-example.py)
-    - [Inorder traversal example](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/trees/tree-traversal/inorder-traversal-example.py)
-    - [Postorder traversal example](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/trees/tree-traversal/postorder-traversal-example.py)
+- [Methods](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/trees/tree-traversal/treenode.py)
+- [Functions](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/trees/tree-traversal/functions.py)
+- [Preorder traversal example](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/trees/tree-traversal/preorder-traversal-example.py)
+- [Inorder traversal example](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/trees/tree-traversal/inorder-traversal-example.py)
+- [Postorder traversal example](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/trees/tree-traversal/postorder-traversal-example.py)
 - [Binary Heap - min heap implementation](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/trees/binary-heap.py)  
 - [Binary Search Tree](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/trees/binary-search-tree.py)
 - [AVL tree](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/trees/avl-tree.py)
@@ -185,7 +185,7 @@ but it also contains other data structures, algorithms and problems.
 
 ### [Substring search](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/tree/main/substring-search)
 - [Brute force algorithm](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/substring-search/brute_force.py)
-=======
+
 ### [Graphs](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/tree/master/graphs)
 - [Breadth first search](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/tree/master/graphs/breadth-first-search)
 - [Depth first search](https://github.com/ivanmmarkovic/Problem-Solving-with-Algorithms-and-Data-Structures-using-Python/tree/master/graphs/depth-first-search)
@@ -215,4 +215,4 @@ but it also contains other data structures, algorithms and problems.
 
 ### [Substring search](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/tree/master/substring-search)
 - [Brute force algorithm](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/master/substring-search/brute_force.py)
->>>>>>> 2d845800b14703196e0155ab255e9b7a704881cb
+>>>>>>> 
