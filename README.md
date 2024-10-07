@@ -9,7 +9,7 @@ but it also contains other data structures, algorithms and problems.
  
 [Videos](https://teklern.blogspot.com/p/blog-page.html)
 
-<<<<<<< HEAD
+
 ### [Algorithm analysis](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/tree/main/analysis)
 - [Anagrams - quadratic solution](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/analysis/anagrams-quadratic-solution.py)
 - [Anagrams - log linear solution](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/analysis/anagrams-loglinear-solution.py)
@@ -22,9 +22,9 @@ but it also contains other data structures, algorithms and problems.
 - [Stack - less efficient array implementation](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/stack/stack-array-impl-less-efficient.py)
 - [Stack - fixed size array implementation](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/stack/stack-fixed-size-array-impl.py)
 - [Stack - linked list implementation](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/stack/stack-linked-list-impl.py)
-    - [Examples](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/tree/main/stack/examples)
-        - [Balanced brackets](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/stack/examples/balanced-brackets.py)
-        - [Number converter](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/stack/examples/number_converter.py)
+- [Examples](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/tree/main/stack/examples)
+- [Balanced brackets](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/stack/examples/balanced-brackets.py)
+- [Number converter](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/stack/examples/number_converter.py)
 
 ### [Queue](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/tree/main/queue)
 - [Queue - array implementation](https://github.com/VANAM-SHIVA-KUMAR/Problem-solving-DSA-using-Python/blob/main/queue/queue-array-impl.py)
